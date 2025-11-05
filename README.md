@@ -79,13 +79,13 @@ The data used in this project is sourced from the official **Johns Hopkins Unive
 ### Clone the Repository
 
 ```bash
-git clone [Your Repository URL]
+git clone https://github.com/Tahera-Begum/COVID-19-Data_Analysis_Forecasting-ML
 ```
 
 ### Navigate to the Directory
 
 ```bash
-cd [Your Repository Name]
+cd COVID-19-Data_Analysis_Forecasting-ML
 ```
 
 ### Launch Jupyter
